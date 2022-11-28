@@ -1,11 +1,12 @@
 # Scrimba - Digital Business Card Solution
 
-This is a solution to the Solo project: Digital Business Card on Scrimba. Scrimba helps you improve your coding skills by building realistic projects.
+This is a solution to the Solo project: Digital Business Card on Scrimba.
+[Scrimba](https://scrimba.com) helps you improve your coding skills by building realistic projects.
 
 ## Table of Contents
 
 - [Overview](#Overview)
-- [Screenshot](##screenshot)
+- [Screenshot](##Screenshot)
 - [Links](##Links)
 - [Getting Started with Create React App](##GettingStartedwithCreateReactApp)
 - [Built with](##Builtwith)
@@ -13,9 +14,9 @@ This is a solution to the Solo project: Digital Business Card on Scrimba. Scrimb
 
 ## Overview
 
-## screenshot
+## Screenshot
 
-![Black Theme](../frontend/src/assets/images/screenshot1.png)
+[Black Theme](../frontend/src/assets/images/screenshot1.png)
 ![Light Theme](../frontend/src/assets/images/screenshot2.png)
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
