@@ -6,11 +6,11 @@ This is a solution to the Solo project: Digital Business Card on Scrimba.
 ## Table of Contents
 
 - [Overview](#Overview)
-- [Screenshot](##Screenshot)
+- [Screenshot](#Screenshot)
 - [Links](##Links)
-- [Getting Started with Create React App](##GettingStartedwithCreateReactApp)
-- [Built with](##Builtwith)
-- [Author](##Author)
+- [Getting Started with Create React App](#Getting-Started-with-Create-React-App)
+- [Built with](#Builtwith)
+- [Author](#Author)
 
 ## Overview
 
