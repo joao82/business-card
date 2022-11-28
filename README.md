@@ -16,13 +16,13 @@ This is a solution to the Solo project: Digital Business Card on Scrimba. Scrimb
 
 ## screenshot
 
-![Black Theme](https://myoctocat.com/assets/images/base-octocat.svg)
-![Light Theme](https://myoctocat.com/assets/images/base-octocat.svg)
+![Black Theme](assets/images/screenshot1.png)
+![Light Theme](assets/images/screenshot2.png)
 
 ## Links
 
-Live Site URL:
-Solution URL:
+Live Site URL: [@Netlify](https://scrimba-joao-business-card.netlify.app)
+Solution URL: [@Github] (https://github.com/joao82/business-card)
 
 ## Getting Started with Create React App
 
