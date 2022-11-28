@@ -4,13 +4,12 @@ This is a solution to the Solo project: Digital Business Card on Scrimba. Scrimb
 
 ## Table of Contents
 
-- Overview
-- Screenshot
-- Links
-- Getting Started with Create React App
-- My Process
-- Built with
-- Author
+- [Overview](#Overview)
+- [Screenshot](##screenshot)
+- [Links](##Links)
+- [Getting Started with Create React App](##GettingStartedwithCreateReactApp)
+- [Built with](##Builtwith)
+- [Author](##Author)
 
 ## Overview
 
