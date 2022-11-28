@@ -16,6 +16,9 @@ This is a solution to the Solo project: Digital Business Card on Scrimba. Scrimb
 
 ## screenshot
 
+![Black Theme](https://myoctocat.com/assets/images/base-octocat.svg)
+![Light Theme](https://myoctocat.com/assets/images/base-octocat.svg)
+
 ## Links
 
 Live Site URL:
