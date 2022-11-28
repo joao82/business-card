@@ -16,8 +16,9 @@ This is a solution to the Solo project: Digital Business Card on Scrimba. Scrimb
 
 ## screenshot
 
-- [Black Theme](../frontend/src/assets/images/screenshot1.png)
-- [Light Theme](../frontend/src/assets/images/screenshot2.png)
+![Black Theme](../frontend/src/assets/images/screenshot1.png)
+![Light Theme](../frontend/src/assets/images/screenshot2.png)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## Links
 
